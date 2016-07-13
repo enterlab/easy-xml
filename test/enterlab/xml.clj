@@ -7,4 +7,4 @@
 (xml/texts street-data [:veje :vej :navn])
 (xml/attributes street-data [:veje :vej :kommune])
 
-(xml/elements "http://oiorest.dk/danmark/veje?q=ødamsvej" [:veje])
+(xml/elements "http://oiorest.dk/danmark/veje?q=gothersgade" [:veje])
