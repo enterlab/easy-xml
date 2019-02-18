@@ -10,7 +10,5 @@ Examples
 
 In the following we'll use this Danish public web service, that returns addresses based on a search query.
 
-In this case we search for "Gothersgade".
- 
-The URL for the service is:
-
+Check the sample test:
+https://github.com/enterlab/easy-xml/blob/master/test/enterlab/xml.clj
